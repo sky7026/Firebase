@@ -33,17 +33,7 @@ signUpButton.addEventListener('click', function(){
       });
 })
 
-// //Log In function
-// loginButton.addEventListener('click', function() {
-//       signInWithEmailAndPassword(auth, loginEmail, loginPassword).then((userCredentialLogin) => {
-//     const user = userCredentialLogin.user;
-//     console.log(user);
-//       }).catch((error) => {
-//         const errorCode = error.code;
-//         const errorMessage = error.message;
-//         console.log(errorCode +' ' +errorMessage)
-//       });
-// })
+
 
 
 
