@@ -7,8 +7,8 @@ It's a examples for firebase
 ## 🌟 How to run
 <!--Remove the below lines and add yours -->
 * Clone the Project
-* Copy the file to HTML folder to you want to do.
-* Open index.html file in HTML folder.
+* Update firebase SDK in index.js file.
+* Open index.html file in HTML folder you want.
 
 
 ## 🤖 Author
